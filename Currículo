@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Micael Alves Evaldt</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div class="esquerda">
+            <img src="./linkedin.jpg" alt="foto">
+            <h1>Micael Alves Evaldt</h1>
+            <h3>Estudante de ADS</h3>
+            <p>Atualmente estou cursando Análise e Desenvolvimento de Sistema na Ulbra, Torres-RS</p>
+            <h2>Educação</h2>
+
+            <p>Ensino médio - E.E Sagrada Família, Morrinhos do Sul-RS  </p>
+            <p>Cursando Análise e Desenvolviemento de Sistemas na Ulbra,Torres-RS</p> </p>
+
+            <h2> Línguas </h2>
+            <p>Português</p>
+            <div class="barra">
+                <div class="progresso-50"></div>
+            </div>
+            <p>Inglês básico</p>
+            <div class="barra">
+            <div class="progresso-75"></div>
+            </div>
+
+
+            <div class="contatos">
+                <i class="fa-brands fa-linkedin"></i>
+                <span> <a href="https://www.linkedin.com/in/micael-evaldt/">linkedin</a></span>
+                <br>
+                <i class="fa-brands fa-whatsapp"></i>
+                <span>(51) 99101-0298</span>
+                <br>
+                <i class="fa-regular fa-envelope"></i>
+                <span>micaelevaldt@gmail.com</span>
+                <br>
+                <i class="fa-solid fa-location-dot"></i>
+                <span>Rua Antonio Policarpo Filho</span>
+            </div>
+
+        </div>
+
+        <div class="direita">
+            <h2>Experiência: </h2>
+            <hr>
+            <br>
+            <ul>
+                <li>Agricultor.</li>
+                <li>Estudante de tecnologia, Ulbra-Torres.</li>
+            </ul>
+            <h2>Níveis de habilidade:</h2>
+            <br>
+            <p>HTML</p>
+            <div class="circulo"></div>
+            <div class="circulo"></div>
+            <div class="circulo"></div>
+            <div class="circulo-vazio"></div>
+            <div class="circulo-vazio"></div>
+            <br>
+            <p>CSS</p>
+            <div class="circulo"></div>
+            <div class="circulo"></div>
+            <div class="circulo"></div>
+            <div class="circulo-vazio"></div>
+            <div class="circulo-vazio"></div>
+
+            <br>
+            <p>PYTHON</p>
+            <div class="circulo"></div>
+            <div class="circulo"></div>
+            <div class="circulo-vazio"></div>
+            <div class="circulo-vazio"></div>
+            <div class="circulo-vazio"></div>
+            <br>
+            <h2>Objetivo:</h2>
+            <br>
+            <p>Obter conhecimentos sobre a área da programação enquanto estou cursando a minha faculdade para poder buscar uma vaga no mercado de trabalho, com muita dedicação e empenho estando sempre motivado a melhorar. </p>
+            
+            <h2>Cursos:</h2>
+            <br>
+            <a href="https://drive.google.com/file/d/1XwJmUXR390lLFtifvFCND2oFs5TBsmm5/view?usp=sharing">Santander | Open Academy</a>
+            
+
+
+        </div>
+
+
+
+    </div> <!--fecha container-->
+
+</body>
+
+</html>
